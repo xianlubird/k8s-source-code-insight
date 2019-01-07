@@ -1,2 +1,6 @@
-# k8s-source-code-insight
-Learn &amp; Introduction kubernetes ecosystem source code as my way
+# Kubernetes 生态源码分析(制作中)
+曾经动笔过好多次，每次都是看了看k8s源码就放弃了。要么觉得太麻烦，不想看，要么觉得太复杂看不懂。前置条件太多，需要了解的也不少，兜兜转转，最后还是饶了回来，算了，还是写点啥吧。
+
+由于k8s 生态过于庞大，我这里就以自己的学习进度来写k8s的源码分析，先从APIServer看起。
+
+
